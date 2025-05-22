@@ -1,21 +1,29 @@
-MIT License
+PROPRIETARY LICENSE
 
-Copyright (c) 2023 Don Brightson
+Copyright (c) 2025 - Don Brightson
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This source code is proprietary and confidential. Unauthorized copying of this file, via any medium, is strictly prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+The above copyright notice and this license notice shall be included in all copies or substantial portions of the Software.
+
+INTELLECTUAL PROPERTY RIGHTS:
+All intellectual property rights, including without limitation, patents, copyrights, trademarks, trade secrets, and other proprietary rights in or related to the Software are and will remain the exclusive property of Don Brightson.
+
+NON-DISCLOSURE:
+Any person or entity with access to this code agrees not to disclose, reveal, make available, or convey any proprietary or confidential information to any other person, entity, firm, or corporation without prior written authorization.
+
+REVERSE ENGINEERING:
+Reverse engineering, decompiling, disassembling, or any other attempt to discover the source code or underlying ideas or algorithms of the Software is strictly prohibited.
+
+SECURITY MEASURES:
+Any user of this software agrees to implement reasonable security measures to protect the code from unauthorized access, use, or disclosure.
+
+PENALTIES:
+Violation of any provision of this license may result in immediate termination of all rights to use the Software and may subject the violator to liability for damages and legal prosecution to the maximum extent permitted by law.
+
+NO WARRANTIES:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
